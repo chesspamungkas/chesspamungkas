@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have worked as a Web Developer for the past 15 years. I have always been passionate about developing user-friendly websites. I have all the skills to create a new high-quality website or improve existing websites for individuals and organizations, using the latest techniques and trends.<br><br>I have extensive knowledge of PHP, Laravel, CodeIgniter, WordPress, CSS, SCSS, Bootstrap, JavaScript, TypeScript, Node.js, Angular, React, Phyton, Golang, REST API, jQuery, AJAX, JSON, AWS, etc.
+I have worked as a Web Developer for the past 15 years. I have always been passionate about developing user-friendly websites. I have all the skills to create a new high-quality website or improve existing websites for individuals and organizations, using the latest techniques and trends.<br><br>I have extensive knowledge of PHP, Laravel, CodeIgniter, WordPress, JavaScript, TypeScript, Node.js, Express.js, NestJS, React, Next.js, Phyton, Angular, Golang, REST API, jQuery, AJAX, JSON, AWS, HTML/HTML5, CSS/CSS3, SCSS, SASS, Bootstrap, TailwindCSS, MaterialUI, etc.
 
 
 ## 🌐 Socials:
