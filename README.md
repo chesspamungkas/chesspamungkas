@@ -6,7 +6,7 @@ Building scalable systems, reliable APIs, and AI-powered applications.
 
 🌍 Remote Worldwide · Open to Global Engineering Opportunities
 
-[LinkedIn](https://linkedin.com/in/catur-pamungkas) · [Portfolio](https://chesspamungkas.github.io/portfolio/) · [GitHub](https://github.com/chesspamungkas) · [Email](mailto:chesspamungkas@gmail.com)
+[LinkedIn](https://linkedin.com/in/catur-pamungkas) · [Portfolio] · [GitHub](https://github.com/chesspamungkas) · [Email](mailto:chesspamungkas@gmail.com)
 
 ---
 
