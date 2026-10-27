@@ -12,7 +12,7 @@ Building scalable systems, reliable APIs, and AI-powered applications.
 
 ## 👨‍💻 About Me
 
-I'm a Senior Software Engineer and Technical Lead with **17+ years of professional experience** designing, developing, and maintaining production systems across SaaS, fintech, cybersecurity, eCommerce, and enterprise platforms.
+I'm a Senior Software Engineer and Technical Lead with **18+ years of professional experience** designing, developing, and maintaining production systems across SaaS, fintech, cybersecurity, eCommerce, and enterprise platforms.
 
 My expertise spans backend engineering, full-stack development, cloud infrastructure, performance optimization, and AI/LLM integration.
 
