@@ -1,106 +1,142 @@
-<!-- Banner -->
-<h1 align="center">👋 Hi, I'm Catur Pamungkas</h1>
-<p align="center">
-  <strong>Senior Full Stack Engineer & Engineering Lead</strong><br>
-  Cloud • High-Scale Systems • AI/LLM Automation • Remote-First Engineering
-</p>
+# 👋 Hi, I'm Catur Pamungkas
 
-<p align="center">
-  <a href="https://linkedin.com/in/catur-pamungkas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" /></a>
-  <a href="mailto:chesspamungkas@gmail.com"><img src="https://img.shields.io/badge/Email-EE4223?logo=gmail&logoColor=fff" /></a>
-  <a href="https://chesspamungkas.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=fff" /></a>
-  <img src="https://komarev.com/ghpvc/?username=chesspamungkas&style=flat&color=blue" />
-</p>
+**Senior Software Engineer | Full Stack & Backend Engineering | Technical Lead**
+
+Building scalable systems, reliable APIs, and AI-powered applications.
+
+🌍 Remote Worldwide · Open to Global Engineering Opportunities
+
+[LinkedIn](https://linkedin.com/in/catur-pamungkas) · [Portfolio](https://chesspamungkas.github.io/portfolio/) · [GitHub](https://github.com/chesspamungkas) · [Email](mailto:chesspamungkas@gmail.com)
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-Senior Full Stack Engineer with 17+ years delivering **scalable web platforms** for SaaS, fintech, cybersecurity, trading, and media.  
-I focus on:
+I'm a Senior Software Engineer and Technical Lead with **17+ years of professional experience** designing, developing, and maintaining production systems across SaaS, fintech, cybersecurity, eCommerce, and enterprise platforms.
 
-- 🧩 **Full Stack Engineering** – PHP/Laravel, Node.js/NestJS, React/Next.js
-- ☁️ **Cloud-Native Architecture** – AWS, GCP, Docker, CI/CD
-- ⚙️ **High-Performance APIs** – DB tuning, caching, queue throughput
-- 🤖 **AI/LLM Automation** – Vertex AI, Gemini, prompt workflows, RAG
-- 🌍 **Global Remote Collaboration** – async & multi-timezone
+My expertise spans backend engineering, full-stack development, cloud infrastructure, performance optimization, and AI/LLM integration.
 
-Systems I've built are **used by millions of users worldwide** 💪
+I enjoy solving complex engineering challenges, improving existing codebases, designing maintainable architectures, and building reliable software through thoughtful testing and code review.
 
----
+### What I Focus On
 
-### 🧠 Tech Expertise
-
-#### Backend
-
-`PHP` `Laravel` `Node.js` `NestJS` `REST` `Redis`  
-`PostgreSQL` `MySQL` `Prisma` `ORM Optimization`
-
-#### Frontend
-
-`React` `Next.js` `TypeScript` `Redux` `Microfrontends`  
-`WebSockets` `Real-Time UI` `Cypress`
-
-#### AI / Automation
-
-`Vertex AI` `Gemini` `RAG` `Prompt Engineering`  
-`LLM API Integration` `Automation Bots`
-
-#### Cloud & DevOps
-
-`AWS` `GCP` `Cloud Run` `Docker` `CI/CD`
-
-#### Others
-
-`WordPress (Enterprise)` `Custom Plugins/Themes` `SEO`
+- **Backend Engineering:** Scalable APIs, microservices, asynchronous processing, and database optimization
+- **Software Quality:** Debugging, refactoring, automated testing, code review, and CI/CD
+- **Full Stack Development:** Modern TypeScript applications, React/Next.js, Node.js/NestJS, and PHP/Laravel
+- **Cloud Engineering:** AWS, GCP, Docker, cloud-native services, and deployment automation
+- **AI Engineering:** LLM integration, RAG, AI automation, and evaluation-oriented workflows
+- **Technical Leadership:** Architecture decisions, engineering mentorship, and cross-functional delivery
 
 ---
 
-### ⭐ Projects & Case Studies (Pinned)
+## 🛠️ Technical Expertise
 
-| Project                                | Tech                            | Highlights                                  |
-| -------------------------------------- | ------------------------------- | ------------------------------------------- |
-| **Real-Time Trading Workflow APIs**    | NestJS + PostgreSQL + WebSocket | Low-latency, high-availability architecture |
-| **AI Automation Platform**             | Vertex AI + Cloud Run           | Reduced manual ops by **40%**               |
-| **Enterprise Multi-Language Platform** | Next.js + SEO                   | Scalable + Lighthouse 95+                   |
-| **WooCommerce Extensions @ Scale**     | PHP + Redis                     | Optimized checkout & SEO                    |
-
-_(Repos will be curated & updated for recruiter visibility)_
-
----
-
-### 🏆 Experience Highlights
-
-**Senior Full Stack Engineer — OQtima** _(Remote)_  
-✔ Built high-performance trading engines & real-time APIs  
-✔ Architected scalable multilingual platform  
-✔ Custom automation plugins for marketing ops
-
-**Lead Full Stack Engineer — SafeSync.ai** _(Remote)_  
-✔ Delivered AI automation workflows using Vertex AI & Gemini  
-✔ Improved cybersecurity operations accuracy & velocity  
-✔ Maintained platform reliability + CI/CD best practices
+| Area | Technologies |
+|---|---|
+| **Languages** | TypeScript, JavaScript, PHP, Python, Go, SQL |
+| **Backend** | Node.js, NestJS, Express.js, Laravel, Django, Flask |
+| **Frontend** | React, Next.js, Angular, Vue.js, Tailwind CSS |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Cloud & Infrastructure** | AWS, GCP, Docker, Cloud Run, GitHub Actions |
+| **Testing & Quality** | Jest, Vitest, React Testing Library, Cypress, Playwright, PHPUnit |
+| **Architecture** | REST APIs, Microservices, Event-Driven Systems, Authentication, RBAC |
+| **AI & Automation** | Vertex AI, Gemini, RAG, LLM APIs, n8n |
 
 ---
 
-### 📊 GitHub Analytics
+## 🚀 Featured Engineering Work
 
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chesspamungkas&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chesspamungkas&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+### Real-Time Trading Platform & APIs
+
+**TypeScript · NestJS · PostgreSQL · WebSocket · React**
+
+- Optimized high-frequency WebSocket streams and backend API performance.
+- Improved platform responsiveness by 20–35% through refactoring, caching, and database query optimization.
+- Developed and maintained trading portal features with reusable components and automated end-to-end testing.
+
+### AI-Powered Cybersecurity SaaS
+
+**TypeScript · Python · Node.js · GCP · Vertex AI · Gemini**
+
+- Developed AI-powered automation and knowledge-retrieval workflows.
+- Reduced manual data-query effort by 40%.
+- Built backend services and data-processing workflows supporting cybersecurity compliance operations.
+- Supported engineering reliability through CI/CD, modular architecture, and automated testing.
+
+### Enterprise Backend & API Engineering
+
+**Node.js · NestJS · Laravel · PostgreSQL · MongoDB · Redis**
+
+- Designed scalable APIs, authentication workflows, and multi-tenant application components.
+- Optimized relational and document database queries using indexing and caching.
+- Implemented secure access-control systems and reliable third-party integrations.
+- Modernized legacy modules to improve maintainability and production reliability.
+
+*Some professional projects are proprietary, so source code cannot be publicly shared.*
 
 ---
 
-### 🤝 Let’s Connect
+## 🔬 Open-Source & Engineering Contributions
 
-Open to **Remote** opportunities worldwide 🌍
+My engineering workflow emphasizes maintainable implementations, meaningful code review, reproducible issues, and automated verification.
 
-> Engineering impact over location.
+Selected GitHub pull requests:
 
-📩 chesspamungkas@gmail.com  
-💼 linkedin.com/in/catur-pamungkas  
-🌐 Portfolio: https://chesspamungkas.github.io/portfolio/
+- [Fix copy clipboard.js — DailyVanity/zuck.js #20](https://github.com/DailyVanity/zuck.js/pull/20)
+- [Add beauty reviews — DailyVanity/zuck.js #26](https://github.com/DailyVanity/zuck.js/pull/26)
+- [Add icon in Story Highlights — DailyVanity/zuck.js #27](https://github.com/DailyVanity/zuck.js/pull/27)
+
+These contributions demonstrate experience working with pull requests, bug fixes, feature enhancements, and collaborative Git workflows.
 
 ---
+
+## 🧪 Engineering Principles
+
+I believe high-quality software requires more than working code.
+
+My approach emphasizes:
+
+- **Correctness:** Clear requirements, predictable behavior, and edge-case validation
+- **Reliability:** Automated tests, defensive programming, and reproducible debugging
+- **Performance:** Profiling, database optimization, efficient algorithms, and caching
+- **Maintainability:** Modular design, readable code, refactoring, and documentation
+- **Security:** Secure authentication, authorization, and data handling
+- **Collaboration:** Constructive code reviews, clear technical communication, and knowledge sharing
+
+---
+
+## 🏆 Professional Experience
+
+**Senior Full Stack Engineer — OQtima**
+
+Built and optimized production financial-platform applications, backend services, trading portal features, and multilingual web experiences.
+
+**Senior Full Stack Engineer / Team Lead — SafeSync.ai**
+
+Led engineering delivery for an AI-powered cybersecurity SaaS platform, integrating backend systems, cloud services, and LLM-driven automation.
+
+**Full Stack Engineering Manager — Daily Vanity**
+
+Led development and optimization of production media platforms, internal applications, and distributed engineering workflows.
+
+**Backend Programming Manager — Excite Indonesia**
+
+Managed backend engineering and modernized enterprise applications, improving performance, system reliability, and development workflows.
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chesspamungkas&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **remote software engineering and technical leadership opportunities worldwide**, including backend systems, full-stack applications, cloud infrastructure, and AI engineering.
+
+- [LinkedIn](https://linkedin.com/in/catur-pamungkas)
+- [Portfolio](https://chesspamungkas.github.io/portfolio/)
+- [Email](mailto:chesspamungkas@gmail.com)
+
+*Building reliable software. Solving meaningful engineering problems. Delivering measurable impact.*
